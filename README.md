@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuto32
-- 👀 I’m interested in "Utukushiki Dbunezumi"
+- 👀 I’m interested in "Utukushiki Dobunezumi"
 - 🌱 I’m currently learning C/C＋＋
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
